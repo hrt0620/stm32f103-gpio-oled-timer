@@ -1,0 +1,7 @@
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.axf
+*.hex
+*.o
